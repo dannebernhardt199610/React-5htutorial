@@ -7,7 +7,7 @@ const JokesData = [
 
     {
         id: 2, 
-        question: "snus och nocco?",
+        question: "snus och nocco??",
         answer: "givet"
     },
     {
