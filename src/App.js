@@ -37,7 +37,7 @@ class App extends React.Component {
   <FetchApi />
 
   <br/><br/><br/>
-  
+
  <Travel />
 
   </div>
